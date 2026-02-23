@@ -15,7 +15,6 @@ export default function Beneficios() {
                 "Falta de orientação jurídica",
                 "Erros automáticos do sistema"
             ],
-            gapContainer: "gap-15" // Mantendo o gap original do seu código
         },
         {
             titulo: "SOLUÇÃO",
@@ -29,7 +28,6 @@ export default function Beneficios() {
                 "Garante o valor correto do benefício",
                 "Tem segurança jurídica em todo o processo"
             ],
-            gapContainer: "gap-15"
         },
         {
             titulo: "PARA QUEM É INDICADO",
@@ -44,7 +42,6 @@ export default function Beneficios() {
                 "Já contribuiu e tem dúvidas sobre seus direitos",
                 "Não sabe se os laudos são suficientes"
             ],
-            gapContainer: "gap-5" // O terceiro card tinha gap menor no seu código
         }
     ];
 
